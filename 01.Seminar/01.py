@@ -1,13 +1,13 @@
-from tokens import giphy # import api key
+from tokens import GIPHY # import api key
 import json
 import requests
 
 url = "https://api.giphy.com/v1/gifs/search"
 params = {
-    "api_key": giphy,
-    "q": "programming", 
+    "api_key": GIPHY,
+    "q": "programming",
     "limit": 5,
-    "offset": 0, 
+    "offset": 0,
     "rating": "pg-13",
     "lang": "ru",
     "bundle": "messaging_non_clips"

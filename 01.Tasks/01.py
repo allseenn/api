@@ -21,9 +21,12 @@ params = {
 
 response = requests.get(url, params=params, headers=headers)
 
-data = json.loads(response.text)
-count = 1
-for item in data["items"]:
-  print(count, item["snippet"]["title"])
-  print(f'https://www.youtube.com/watch?v={item["id"]["videoId"]}\n')
-  count+=1
+if response.ok:
+    data = json.loads(response.text)
+    count = 1
+    for item in data["items"]:
+        print(count, item["snippet"]["title"])
+        print(f'https://www.youtube.com/watch?v={item["id"]["videoId"]}\n')
+        count+=1
+else:
+    print("Error")

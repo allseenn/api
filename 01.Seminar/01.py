@@ -28,4 +28,4 @@ if response.ok:
     with open ("gifs.json", "w") as f:
         json.dump(j_data, f)
 else:
-    print("Error")
+    print("Error!")

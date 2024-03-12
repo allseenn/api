@@ -46,4 +46,4 @@ with open(filename, 'w') as file:
     json.dump(all_books, file)
 
 end_time = time.time()
-print(f"Обработано за {end_time - start_time} секунд {len(all_books)} книг, сохранено в {filename}")
+print(f"Обработано за {end_time - start_time:.2f} секунд {len(all_books)} книг, сохранено в {filename}")

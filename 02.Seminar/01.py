@@ -7,12 +7,8 @@ ua = UserAgent()
 
 url = 'https://www.boxofficemojo.com'
 path = '/intl/'
-params = {
-    'ref_': 'bo_nb_hm_tab'
-}
-headers = {
-    'User-Agent': ua.random
-}
+params = {'ref_': 'bo_nb_hm_tab'}
+headers = {'User-Agent': ua.random}
 
 session = requests.session()
 response = session.get(url+path, params=params, headers=headers)

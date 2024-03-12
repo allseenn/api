@@ -27,6 +27,3 @@ if response.ok:
         print(res['location']['formatted_address'], end='\n\n')
 else:
     print("Error")
-
-
-

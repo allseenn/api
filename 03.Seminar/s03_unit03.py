@@ -3,8 +3,11 @@ import json
 from tokens import CLICKHOUSE_USER, CLICKHOUSE_PASS, CLICKHOUSE_HOST
 
 # Подключение к серверу ClickHouse
-uri = f"clickhouse://{CLICKHOUSE_USER}:{CLICKHOUSE_PASS}@{CLICKHOUSE_HOST}"
-client = Client(uri)
+client = Client(host = CLICKHOUSE_HOST,
+                user=CLICKHOUSE_USER,
+                secure = True, 
+                port = 9440,
+                password = CLICKHOUSE_PASS)
  
 # Создание базы данных (если она не существует)
 client.execute('CREATE DATABASE IF NOT EXISTS town_cary')

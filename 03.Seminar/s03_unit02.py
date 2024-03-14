@@ -1,8 +1,9 @@
 from pymongo import MongoClient
 import json
+from tokens import ATLAS_USER, ATLAS_PASS, ATLAS_HOST
 
-# создание экземпляра клиента
-client = MongoClient()
+uri = f"mongodb+srv://{ATLAS_USER}:{ATLAS_PASS}@cluster0.{ATLAS_HOST}.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+client = MongoClient(uri)
 
 # подключение к базе данных и коллекции
 db = client['town_cary']

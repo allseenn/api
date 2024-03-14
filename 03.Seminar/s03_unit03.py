@@ -1,9 +1,11 @@
 from clickhouse_driver import Client
 import json
+from tokens import CLICKHOUSE_USER, CLICKHOUSE_PASS, CLICKHOUSE_HOST
 
 # Подключение к серверу ClickHouse
-client = Client('localhost')
-
+uri = f"clickhouse://{CLICKHOUSE_USER}:{CLICKHOUSE_PASS}@{CLICKHOUSE_HOST}"
+client = Client(uri)
+ 
 # Создание базы данных (если она не существует)
 client.execute('CREATE DATABASE IF NOT EXISTS town_cary')
 

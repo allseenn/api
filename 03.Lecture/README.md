@@ -1,6 +1,6 @@
 # Сбор и разметка данных
 
-## MongoDB
+## MongoDB {#MongoDB}
 
 ### Пожизненный сервер Atlas
 
@@ -117,7 +117,7 @@ mongodb+srv://USER:PASSWORD@cluster0.HOST.mongodb.net/admin
 
 <img src=pics/21.png>
 
-## ClickHouse
+## ClickHouse {#ClickHouse}
 
 ### Регистрация
 

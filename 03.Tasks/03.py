@@ -18,14 +18,11 @@ print(f'Число записей в базе {NAME}: {count}')
 document = collection.find_one()
 print(f'Типовой документ иммеет поля: {document.keys()}')
 
-
 # Поиск документов с одинаковыми значениями name
 duplicates = collection.aggregate([
     {"$group": {"_id": {"name": "$name", "price": "$price", "availability": "$availability"}, "count": {"$sum": 1}}},
     {"$match": {"count": {"$gt": 1}}}
 ])
-
-
 
 # Найти самую дешевую книгу
 cheapest = collection.aggregate([
@@ -44,13 +41,10 @@ most_expensive = collection.aggregate([
 most_expensive = list(most_expensive)[0]
 print(f'Самая дорогая книга: {most_expensive["_id"]} стоит £{most_expensive["max_price"]:.2f}')
 
-# Найти книгу, которой больше всего в наличии
+# Найти книгу, которой больше всего в наличии (на складе)
 most_available = collection.aggregate([
     {"$group": {"_id": "$name", "count": {"$max": "$available"}}},
     {"$sort": {"count": -1}}
 ])
 most_available = list(most_available)[0]
 print(f'Больше всего книг в наличие: {most_available["_id"]} их {most_available["count"]} шт.')
-
-
-

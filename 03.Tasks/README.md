@@ -13,5 +13,12 @@
 
 ### Решение
 
-1. [Написал подробную инструкцию](https://github.com/allseenn/api/blob/main/03.Lecture/README.md) получения бесплатных аккаунтов Atlas MongoDB и ClickHouse в условиях нынешней реальности.
-2. 
+1. [Написал подробную инструкцию](https://github.com/allseenn/api/blob/main/03.Lecture/README.md#MongoDB) получения бесплатных аккаунтов Atlas MongoDB и ClickHouse в условиях нынешней реальности.
+2. [Загрузка списка литературы в MongoDB](https://github.com/allseenn/api/blob/main/03.Tasks/02.py)
+3. [Скрипт с методами запросов]() выводит следующую информацию:
+- Число книг в базе
+- Список полей в документы
+- Самая дешевая книга
+- Самая дорогая книга
+- Больше всего книг в наличие
+4. 

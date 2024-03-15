@@ -37,23 +37,29 @@ with open(NAME + '.json', 'r') as file:
 memory_time = time.time()
 print(f"{len(books)} документов из {NAME}.json загружены в память. За: {memory_time - table_time:.2f} секунд")
 
-print(f'Загрузка данных в ClickHouse...')
-count = 1
+
+count = 0
+books_values = []
 for book in books:
-    client.execute("""
-        INSERT INTO library.books (
-            id, name, price,
-            availability, available, description
-        ) VALUES""",
-        [(count,
-        book['name'] or "",
-        book['price'] or "",
-        book['availability'] or "",
-        book['available'] or "",
-        book['description'] or "")])
+    books_values.append((count,
+    book['name'] or "",
+    book['price'] or "",
+    book['availability'] or "",
+    book['available'] or "",
+    book['description'] or ""))
     count += 1
 
-print(f"{count} строк загружено в таблицу {NAME} ClickHouse. За: {time.time() - memory_time:.2f} секунд")
+print(f"{count} строк преобразовано в кортеж. За: {time.time() - memory_time:.2f} секунд")
+
+click_time = time.time()
+print(f'Загрузка данных в ClickHouse...')
+client.execute("""
+    INSERT INTO library.books (
+        id, name, price,
+        availability, available, description
+    ) VALUES""", books_values)
+
+print(f"{count} строк загружено в таблицу {NAME} ClickHouse. За: {time.time() - click_time:.2f} секунд")
 
 rows_count = client.execute("SELECT count() FROM library.books")
 print(f"Количество строк в таблице library.books: {rows_count[0][0]}")

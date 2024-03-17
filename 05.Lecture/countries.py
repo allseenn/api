@@ -10,11 +10,7 @@ class CountriesSpider(scrapy.Spider):
         for country in countries:
             name = country.xpath(".//text()").get().strip()
             link = country.xpath(".//@href").get()
-            yield response.follow(url=link, callback=self.parse_country,
-                                   meta={
-                                       'name': name,
-                                       'proxy': 'http://38.162.25.54:3128'
-                                         })
+            yield response.follow(url=link, callback=self.parse_country, meta={"name": name})
 
 
     def parse_country(self, response):

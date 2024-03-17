@@ -12,9 +12,9 @@ BOT_NAME = "trading_economics"
 SPIDER_MODULES = ["trading_economics.spiders"]
 NEWSPIDER_MODULE = "trading_economics.spiders"
 
-from fake_useragent import UserAgent as fua
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = fua().random
+#USER_AGENT = "trading_economics (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -25,9 +25,9 @@ ROBOTSTXT_OBEY = True
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-# DOWNLOAD_DELAY = 3
+#DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
-CONCURRENT_REQUESTS_PER_DOMAIN = 16
+#CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
@@ -91,3 +91,18 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 16
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+# ROTATING_PROXY_LIST = [
+#     #'proxy1:port',
+#     # 'proxy2:port',
+#     # Add more proxies as needed
+# ]
+
+# with open('../../../proxy_list.txt', 'r') as f:
+#     ROTATING_PROXY_LIST = f.read().splitlines()
+
+# DOWNLOADER_MIDDLEWARES = {
+#     'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 1,
+#     'scrapy_rotating_proxies.middlewares.RotatingProxyMiddleware': 610,
+#     'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware': 350,
+# }

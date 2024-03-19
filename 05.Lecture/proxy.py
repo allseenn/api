@@ -52,7 +52,7 @@ def proxy_list_from_proxyscrape()->list:
 
 def main(source: str)->str:
     if(source == "file"):
-        proxy_list = proxy_list_from_file("proxy_list.txt")
+        proxy_list = proxy_list_from_file("../../proxy_list.txt")
     elif(source == "api"):
         proxy_list = proxy_list_from_proxyscrape()
     return fastest_proxy(proxy_list)

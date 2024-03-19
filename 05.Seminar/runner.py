@@ -3,12 +3,13 @@ from scrapy.utils.reactor import install_reactor
 from scrapy.utils.log import configure_logging
 from scrapy.utils.project import get_project_settings
 from jobparser.spiders.hhru import HhruSpider
-from jobparser import settings
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 
 if __name__ == "__main__":
     configure_logging()
-    settings = get_project_settings()
     install_reactor("twisted.internet.asyncioreactor.AsyncioSelectorReactor")
-    process = CrawlerProcess(settings)
+    process = CrawlerProcess(get_project_settings())
     process.crawl(HhruSpider)
     process.start()

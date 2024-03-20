@@ -58,7 +58,6 @@ def main(source: str)->str:
     return fastest_proxy(proxy_list)
 
 
-
 if __name__ == "__main__":
     print(main("api"))
 

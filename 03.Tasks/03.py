@@ -18,6 +18,12 @@ print(f'Число записей в базе {NAME}: {count}')
 document = collection.find_one()
 print(f'Типовой документ иммеет поля: {document.keys()}')
 
+# сохранение всех документов из коллекции в books.json в виде строки JSON
+documents = list(collection.find())
+documents_json = ',\n'.join([json.dumps(document, ensure_ascii=False, indent=4) for document in documents])
+with open('books.json', 'w', encoding='utf-8') as f:
+    f.write('[\n' + documents_json + '\n]')
+
 # Поиск документов с одинаковыми значениями name
 duplicates = collection.aggregate([
     {"$group": {"_id": {"name": "$name", "price": "$price", "availability": "$availability"}, "count": {"$sum": 1}}},

@@ -33,7 +33,7 @@ DOWNLOAD_DELAY = 0.5
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-COOKIES_ENABLED = True
+COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
@@ -52,7 +52,7 @@ COOKIES_ENABLED = True
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-ROTATING_PROXY_LIST_PATH = '../../proxy_list.txt'
+ROTATING_PROXY_LIST_PATH = '../../../proxy_list.txt'
 
 DOWNLOADER_MIDDLEWARES = {
    #"jobparser.middlewares.JobparserDownloaderMiddleware": 543,

@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = "zebrs.spiders"
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "zebrs (+http://www.yourdomain.com)"
 from fake_useragent import UserAgent as ua
-USER_AGENT = ua().random
+USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -73,9 +73,11 @@ ROTATING_PROXY_LIST_PATH = '../../proxy_list.txt'
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'scrapy.pipelines.images.ImagesPipeline': 1
+   'zebrs.pipelines.CustomImagesPipeline': 1
 }
 IMAGES_STORE = 'images'
+
+FEED_EXPORT_FIELDS = ['name', 'price']
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

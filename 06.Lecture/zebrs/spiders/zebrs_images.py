@@ -26,10 +26,10 @@ class ZebrsImagesSpider(CrawlSpider):
             loader.add_xpath('price', '//div[@class="me-2 product-price text-danger"]/text()')
         else:
             loader.add_xpath('price', '//div[@class="me-2 product-price"]/text()')
-        loader.add_xpath('image_urls', '//div[@class="col-md-6 col-lg-4"]/a/img/@src')
 
-        relative_image_urls = response.xpath('//div[@class="col-md-6 col-lg-4"]/a/img/@src').getall()
-        absolute_image_urls = [urljoin('https://'+ self.allowed_domains[0], image_url) for image_url in relative_image_urls]
+        # loader.add_xpath('image_urls', '//div[@class="col-md-6 col-lg-4"]/a/img/@src')
+        relative_image_urls = response.xpath('//div[@class="text-center d-none d-sm-block dsktp-zoomer"]/ul/li/img/@src').getall()
+        absolute_image_urls = [urljoin('https://'+ self.allowed_domains[0], img_url) for img_url in relative_image_urls]
         loader.add_value('image_urls', absolute_image_urls)
 
         yield loader.load_item()

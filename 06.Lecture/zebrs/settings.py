@@ -19,7 +19,7 @@ from fake_useragent import UserAgent as ua
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 10
@@ -77,7 +77,7 @@ ITEM_PIPELINES = {
 }
 IMAGES_STORE = 'images'
 
-FEED_EXPORT_FIELDS = ['name', 'price']
+FEED_EXPORT_FIELDS = ['name', 'price', 'folder']
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

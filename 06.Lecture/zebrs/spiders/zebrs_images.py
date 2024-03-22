@@ -1,4 +1,3 @@
-import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.loader import ItemLoader
@@ -6,10 +5,11 @@ from zebrs.items import ZebrsItem
 from itemloaders.processors import MapCompose
 # from scrapy.loader.processors import MapCompose
 from urllib.parse import urljoin
+
 class ZebrsImagesSpider(CrawlSpider):
     name = "zebrs_images"
     allowed_domains = ["www.zebrs.com"]
-    start_urls = ["https://www.zebrs.com/categories/smartphones"]
+    start_urls = ["https://www.zebrs.com/categories/smart-watch"]
 
     rules = (
         Rule(LinkExtractor(restrict_xpaths=['//div[@class="position-relative teaser-item-div"]']), callback="parse_item", follow=True),
@@ -20,6 +20,7 @@ class ZebrsImagesSpider(CrawlSpider):
         loader = ItemLoader(item=ZebrsItem(), response=response)
         loader.default_input_processor = MapCompose(str.strip) 
         loader.add_xpath('name', '//h1/text()')
+        loader.add_xpath('folder', '//h1/text()')
         price_text_danger = response.xpath('//div[@class="me-2 product-price text-danger"]/text()').get()
 
         if price_text_danger:

@@ -77,6 +77,16 @@ ITEM_PIPELINES = {
 }
 IMAGES_STORE = 'images'
 
+FEEDS = {
+    'watches.md': {
+        'format': 'csv',
+        'item_export_kwargs': {
+            'include_headers_line': False,
+            'delimiter': '\t',  # Указываем табуляцию в качестве разделителя
+        },
+    }
+}
+
 FEED_EXPORT_FIELDS = ['name', 'price', 'folder']
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

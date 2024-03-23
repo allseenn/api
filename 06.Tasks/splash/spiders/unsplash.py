@@ -23,9 +23,9 @@ class UnsplashSpider(scrapy.Spider):
 
     def parse_photo(self, response: HtmlResponse):
         loader = ItemLoader(item=SplashItem(), response=response)
-        loader.add_xpath('name', '//h1/text()')
-        loader.add_xpath('tags', '//span[@class="app-price product-sidebar-price__price"]/text()')
         loader.add_value('url', response.url)
-        loader.add_xpath('photos', '//picture[@class="product-poster__main-picture"]//img/@data-src' or
-                          '//picture[@class="product-poster__main-picture"]//img/@src')
+        loader.add_xpath('photos', '//button//img/@srcset')
+        loader.add_xpath('name', '//h1/text()')
+        loader.add_xpath('description', '//p[@style]/text()')
+        loader.add_xpath('date', '//time/@datetime')
         yield loader.load_item()

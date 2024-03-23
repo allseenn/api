@@ -6,26 +6,26 @@
 import scrapy
 # импортируем 3 из 6(7) обработчиков
 from itemloaders.processors import TakeFirst, MapCompose, Compose
+from datetime import datetime
+
+def proccess_photos(photos):
+    photos = photos.split(",")[-1].split()[0]
+    return photos
+
 
 def proccess_name(name):
     name = name[0].strip()
     return name
 
-def proccess_tags(tags):
-    try:
-        tags = tags[0].strip().replace("xa0", " ").split()
-        tags[0] = float(tags[0])
-    except:
-        pass
-    return tags
-
-def proccess_photos(photos):
-    return photos.replace("//ndc.", "http://ndc.").replace("w410", "w820").replace("410x590", "820x1180")
+def proccess_date(date):
+    date = datetime.strptime(date[0].strip(), '%Y-%m-%dT%H:%M:%S.%fZ')
+    return date
 
 
 class SplashItem(scrapy.Item):
-    name = scrapy.Field(input_processor=Compose(proccess_name), output_processor=TakeFirst())
     url = scrapy.Field(output_processor=TakeFirst())
-    tags = scrapy.Field(input_processor=Compose(proccess_tags))
     photos = scrapy.Field(input_processor=MapCompose(proccess_photos))
+    name = scrapy.Field(input_processor=Compose(proccess_name), output_processor=TakeFirst())
+    description = scrapy.Field(output_processor=TakeFirst())
+    date = scrapy.Field(input_processor=Compose(proccess_date), output_processor=TakeFirst())
     _id = scrapy.Field()

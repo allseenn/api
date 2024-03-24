@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import argparse
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.reactor import install_reactor
 from scrapy.utils.log import configure_logging
@@ -23,6 +24,16 @@ if __name__ == "__main__":
                                     'delimiter': '\t',  
                                 },
                             }})
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--path", help="Proxy list path")
+    args = parser.parse_args()
+    if args.path:
+        settings.set('ROTATING_PROXY_LIST_PATH', args.path)
+        settings.set('DOWNLOADER_MIDDLEWARES', {
+   'rotating_proxies.middlewares.RotatingProxyMiddleware': 100,
+   'rotating_proxies.middlewares.BanDetectionMiddleware': 110,
+                    })
+
     process = CrawlerProcess(settings=settings)
     process.crawl(UnsplashSpider, query=query)
     process.start()

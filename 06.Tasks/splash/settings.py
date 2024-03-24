@@ -53,12 +53,12 @@ COOKIES_ENABLED = False
 #DOWNLOADER_MIDDLEWARES = {
 #    "splash.middlewares.SplashDownloaderMiddleware": 543,
 #}
-DOWNLOADER_MIDDLEWARES = {
-   'rotating_proxies.middlewares.RotatingProxyMiddleware': 100,
-   'rotating_proxies.middlewares.BanDetectionMiddleware': 110,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#    'rotating_proxies.middlewares.RotatingProxyMiddleware': 100,
+#    'rotating_proxies.middlewares.BanDetectionMiddleware': 110,
+# }
 
-ROTATING_PROXY_LIST_PATH = '../../proxy_list.txt'
+# ROTATING_PROXY_LIST_PATH = '../../proxy_list.txt'
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {

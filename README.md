@@ -6,3 +6,4 @@
 4. XPath
 5. Scrapy
 6. Scrapy media
+7. Selenium

@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By # Класс поиска с пом�
 from selenium.webdriver.firefox.options import Options # Класс опций передаваемых драйверу
 from selenium.webdriver.support.ui import WebDriverWait # Класс ожидания
 from selenium.webdriver.support import expected_conditions as EC # Класс ожидаемых события
+from selenium.webdriver.common.action_chains import ActionChains
 
 options = Options()
 options.headless = True

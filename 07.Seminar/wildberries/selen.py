@@ -1,5 +1,4 @@
-import time
-import csv
+#!/usr/bin/env python3
 from selenium import webdriver # Импорт основного драйвера
 from selenium.webdriver.common.keys import Keys # Класс клавиш клавиатуры
 from selenium.webdriver.common.by import By # Класс поиска с помощью чего..

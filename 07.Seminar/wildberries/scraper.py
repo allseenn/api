@@ -6,7 +6,6 @@ def goods(keyword: str) -> list:
 
     input = driver.find_element(By.ID, "searchInput")
     time.sleep(3)
-    keyword = "смартфон"
     input.send_keys(keyword)
     input.send_keys(Keys.ENTER)
 

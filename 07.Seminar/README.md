@@ -82,7 +82,7 @@ Page 11 total 1155 goods was scraped
 
 ### 2. Модуль scraper.py
 
-В данном модуле прописана основная логика работы программы.
+[В данном модуле](https://github.com/allseenn/api/blob/main/07.Seminar/wildberries/scraper.py) прописана основная логика работы программы.
 
 В ней описаны действия эмулирующие взаимодействие браузера с человеком.
 
@@ -98,7 +98,7 @@ Page 11 total 1155 goods was scraped
 
 ### 3. Модуль selen.py
 
-Включает загрузку необходимых классов и дравервера браузера из фреймворка selenium.
+[Модуль](https://github.com/allseenn/api/blob/main/07.Seminar/wildberries/selen.py) включает загрузку необходимых классов и драйвера браузера из фреймворка selenium.
 
 Выставляется режим headless, для скрытого режима работы.
 
@@ -106,7 +106,7 @@ Page 11 total 1155 goods was scraped
 
 ### 4. Модуль db.py
 
-Содержит несколько методов по работе с MongoDB.
+[Модуль](https://github.com/allseenn/api/blob/main/07.Seminar/wildberries/db.py) содержит несколько методов по работе с MongoDB.
 
 - Загрузка данных из MongoDB
 - Выгрузка с сервера МongoDB

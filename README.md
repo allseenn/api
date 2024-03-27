@@ -21,3 +21,4 @@
 - [Homework](https://github.com/allseenn/api/tree/main/06.Tasks)
 7. Selenium
 - [Lecture](https://github.com/allseenn/api/tree/main/07.Lecture)
+- [Seminar](https://github.com/allseenn/api/tree/main/07.Seminar)

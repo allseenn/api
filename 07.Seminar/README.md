@@ -147,5 +147,5 @@ Page 11 total 1155 goods was scraped
 
 В корне решения лежат два json-файла, как пример результатов поиска по соответствующих их именам запросам:
 
-- [Дрель](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80.json)
-- Принтер.json
+- [Дрель](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%94%D1%80%D0%B5%D0%BB%D1%8C.json)
+- [Принтер](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80.json)

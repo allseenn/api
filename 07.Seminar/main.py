@@ -17,4 +17,4 @@ def main(keyword):
 if __name__ == "__main__":
     keyword = input("Введите товар для поиска: ")
     main_list = main(keyword)
-    db.upload("wildberries", "smartphones", main_list)
+    # db.upload("wildberries", "smartphones", main_list)

@@ -19,7 +19,7 @@ def upload(dbname: str, collection: str, dicts_list: list):
 
 
 def unique(dicts_list: list):
-    return list({v['id']:v for v in dicts_list}.values())
+    return list({v['_id']:v for v in dicts_list}.values())
 
 if __name__ == '__main__':
     DB = 'wildberries'

@@ -159,8 +159,8 @@ Page 11 total 1155 goods was scraped
 
 1. Результат по запросу "Неттоп":
 - [CSV: 360 записей](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%9D%D0%B5%D1%82%D1%82%D0%BE%D0%BF.csv)
-- [JSON: 90 записей](https://raw.githubusercontent.com/allseenn/api/main/07.Seminar/%D0%9D%D0%B5%D1%82%D1%82%D0%BE%D0%BF.json)
+- [JSON: 90 записей](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%9D%D0%B5%D1%82%D1%82%D0%BE%D0%BF.json)
 
 2. Результат по запросу "Рация":
-- [CSV:  5228 записей](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%A0%D0%B0%D1%86%D0%B8%D1%8F.csv)
-- [JSON: 1247 записей](https://raw.githubusercontent.com/allseenn/api/main/07.Seminar/%D0%A0%D0%B0%D1%86%D0%B8%D1%8F.json)
+- [CSV:  5400 записей](https://github.com/allseenn/api/blob/main/07.Seminar/%D0%A0%D0%B0%D1%86%D0%B8%D1%8F.csv)
+- [JSON: 1038 записей](https://raw.githubusercontent.com/allseenn/api/main/07.Seminar/%D0%A0%D0%B0%D1%86%D0%B8%D1%8F.json)

@@ -44,7 +44,7 @@ def json_file(keyword: str, dicts_list: list)->int:
     counter = len(dicts_list)
     if counter == 0: return 0
     with(open(keyword + ".json", "w")) as file:
-        json.dump(dicts_list, file)
+        json.dump(dicts_list, file, ensure_ascii=False, indent=4)
     print(f"{counter} словарей записано в файл {keyword}.json")
     return counter
 

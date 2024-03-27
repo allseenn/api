@@ -107,7 +107,7 @@ Page 11 total 1155 goods was scraped
 [Модуль](https://github.com/allseenn/api/blob/main/07.Seminar/wildberries/db.py) содержит несколько методов по работе с MongoDB.
 
 - Загрузка данных из MongoDB
-- Выгрузка с сервера МongoDB
+- Выгрузка на сервер MongoDB
 - Создание уникального списка товаров
 
 Поддерживается создание русскоязычных коллекции MongoDB, соответствующих поисковому слову.

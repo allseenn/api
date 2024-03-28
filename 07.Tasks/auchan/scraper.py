@@ -38,7 +38,7 @@ def goods(keyword: str) -> list:
         print(f"СКРЕЙПИНГ: {goods_counter} из {quantity} товаров {keyword}")
         if goods_counter >= quantity:
             break
-        elif counter > quantity/4:
+        elif counter > quantity/10:
             break
         else: counter += 1
 

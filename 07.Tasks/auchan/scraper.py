@@ -51,8 +51,8 @@ def goods(keyword: str) -> list:
         card_dict["name"] = card.find("a", class_ ="digi-product__label").getText().strip()
         card_dict["price"] = float(card.find("span", class_="digi-product-price-variant").getText().replace("₽", "").replace("\xa0", "").strip().replace(",", "."))
         image_path = save_image(card.find("img").get("src"), keyword)
-        card_dict["image"] = "[Photo](" + image_path + ")<br>"
-        card_dict["link"] = "[Link](" + url + card.find("a").get("href") + ")"
+        card_dict["image"] = "[Photo](" + image_path + ")"
+        card_dict["link"] = "[Link](" + url + card.find("a").get("href") + ")<br>"
         cards_list.append(card_dict)
         print("\033c")
         print(f"ПАРСИНГ: {i} из {len(cards)} товаров {keyword}")

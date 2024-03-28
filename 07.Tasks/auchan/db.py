@@ -28,13 +28,13 @@ def unique(dicts_list: list)->list:
     return list({v["_id"]:v for v in dicts_list}.values())
 
 
-def csv_file(keyword: str, dicts_list: list, delimiter='\t')->int:
+def csv_file(keyword: str, dicts_list: list, delimiter='\t', encoding='utf-8', headers=False)->int:
     counter = len(dicts_list)
     if counter == 0: return 0
-    with open(f"{keyword}.md", 'w', newline='', encoding='utf-8') as f:
+    with open(f"{keyword}.md", 'w', newline='', encoding=encoding) as f:
         fieldnames = dicts_list[0].keys()
         writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=delimiter)
-        writer.writeheader()
+        if headers: writer.writeheader()
         writer.writerows(dicts_list)
     print(f"{counter} строк записано в {keyword}.md")
     return counter

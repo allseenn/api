@@ -1,0 +1,898 @@
+[
+    {
+        "_id": 846447,
+        "name": "Сметана Простоквашино 20%, 300 г",
+        "price": 94.49,
+        "link": "https://www.auchan.ru/product/pro-smetana-20-300g-bzmzh/",
+        "image": "[photo](сметана/1cOn7goyasQRpKQlUiOHf4y3IW8WL2p6Frplvlfe.jpg)"
+    },
+    {
+        "_id": 846445,
+        "name": "Сметана Простоквашино 10% БЗМЖ, 300 г",
+        "price": 74.49,
+        "link": "https://www.auchan.ru/product/pro-smetana-10-300g-bzmzh/",
+        "image": "[photo](сметана/JKxCvCz4bZrbzxroszCwwl5MtgGAJSgwAAO7EnhL.jpg)"
+    },
+    {
+        "_id": 666492,
+        "name": "Сметана Домик в деревне 15%, 300 г",
+        "price": 69.96,
+        "link": "https://www.auchan.ru/product/smetana-domik-v-derevne-15-300g/",
+        "image": "[photo](сметана/kcGnQSw6Yc1VXkBAIO2hlSc2qYrtnlGpaVsPoird.jpg)"
+    },
+    {
+        "_id": 964005,
+        "name": "Сметана Искренне Ваш 20%, 300 г",
+        "price": 69.9,
+        "link": "https://www.auchan.ru/product/smetana-isk-vash-20-300g-bzmzh/",
+        "image": "[photo](сметана/jswdWA0N2HgQWTP96ulyrjDuSey0WcJ0556dBeRz.jpg)"
+    },
+    {
+        "_id": 846446,
+        "name": "Сметана Простоквашино 15%, 300 г",
+        "price": 84.49,
+        "link": "https://www.auchan.ru/product/pro-smetana-15-300g-bzmzh/",
+        "image": "[photo](сметана/CuTXDcrDxQpredMCIB9gDGo3ae53f8jywEY20y1g.jpg)"
+    },
+    {
+        "_id": 964002,
+        "name": "Сметана Искренне Ваш 15%, 300 г",
+        "price": 96.49,
+        "link": "https://www.auchan.ru/product/smetana-isk-vash-15-300g-bzmzh/",
+        "image": "[photo](сметана/u4ONsVSnFz9xkRvzpmwk03a2S3j8k5aKUwZGYvhL.jpg)"
+    },
+    {
+        "_id": 40017,
+        "name": "Сметана Ростагроэкспорт 20% БЗМЖ, 320 г",
+        "price": 89.9,
+        "link": "https://www.auchan.ru/product/smetana-rostagroeksport-20-320-g/",
+        "image": "[photo](сметана/Fy7kUqqOurcAQ7NicnpI1sq7POBgJgC8T5dKfuUd.jpg)"
+    },
+    {
+        "_id": 166508,
+        "name": "Сметана Залесский Фермер фермерская 15%, 300 г",
+        "price": 59.9,
+        "link": "https://www.auchan.ru/product/smetana-zalesskiy-fermer-fermerskaya-15-300-g/",
+        "image": "[photo](сметана/p8Yv00FVNkjkuygJshLzvZkytZMwXJZGiwYSJan4.jpg)"
+    },
+    {
+        "_id": 846448,
+        "name": "Сметана Простоквашино 25% БЗМЖ, 300 г",
+        "price": 109.49,
+        "link": "https://www.auchan.ru/product/pro-smetana-25-300g-bzmzh/",
+        "image": "[photo](сметана/bsxyFLqhjshBItOAPtdryan7ufw7wFWi5TPdqaO4.jpg)"
+    },
+    {
+        "_id": 666761,
+        "name": "Сметана Домик в деревне 20%, 300 г",
+        "price": 89.96,
+        "link": "https://www.auchan.ru/product/smetana-domik-v-derevne-20-300g/",
+        "image": "[photo](сметана/ByMFhKbmNUqZ1CKcRKgLs3KfO9ddHqV7izpTAJlC.jpg)"
+    },
+    {
+        "_id": 25021,
+        "name": "Сметана Брест-Литовск 15% БЗМЖ, 300 г",
+        "price": 79.49,
+        "link": "https://www.auchan.ru/product/smetana-brest-litovsk-15-300g/",
+        "image": "[photo](сметана/EWIPXE2yQX5wWeaAMaetvcnSCdom93IBBdR73Pjx.jpg)"
+    },
+    {
+        "_id": 39169,
+        "name": "Сметана President 30% БЗМЖ, 350 г",
+        "price": 156.99,
+        "link": "https://www.auchan.ru/product/smetana-president-30-350-g/",
+        "image": "[photo](сметана/87HuKnS3zBQMBa5PiVKKoAY2kbKF33xlOMSmUaDo.jpg)"
+    },
+    {
+        "_id": 788580,
+        "name": "Сметана Экомилк Сливочная 20%, 315 г",
+        "price": 79.49,
+        "link": "https://www.auchan.ru/product/smetana_ekomilk_slivoch_20315g/",
+        "image": "[photo](сметана/aQl51LYvz3Jg9DdbKSOOlbN53UiKPp21jclehcBP.jpg)"
+    },
+    {
+        "_id": 992882,
+        "name": "Сметана Каждый день 10% БЗМЖ, 200 г",
+        "price": 33.99,
+        "link": "https://www.auchan.ru/product/kd-smetana-10-200-g/",
+        "image": "[photo](сметана/wdEEsGXnk7DJMNvCK3Mt3TcNTcqJJjXK470sW33z.jpg)"
+    },
+    {
+        "_id": 666338,
+        "name": "Сметана Домик в деревне 10% БЗМЖ, 300 г",
+        "price": 69.49,
+        "link": "https://www.auchan.ru/product/smetana-domik-v-derevne-10-300-g/",
+        "image": "[photo](сметана/wsjzu4RL0Kx9VCjKYU6zexyEVsN1mEk6GASvKBeO.jpg)"
+    },
+    {
+        "_id": 25015,
+        "name": "Сметана Брест-Литовск 20% БЗМЖ, 300 г",
+        "price": 96.49,
+        "link": "https://www.auchan.ru/product/smetana-brest-litovsk-20-300g/",
+        "image": "[photo](сметана/q3Dey7LxOcNsFgfEiBL9vldBohwdspXDQMnqgTFs.jpg)"
+    },
+    {
+        "_id": 112141,
+        "name": "Сметана Ростагроэкспорт 20% БЗМЖ, 500 г",
+        "price": 152.49,
+        "link": "https://www.auchan.ru/product/smetana-rostagroeksport-20-500-g/",
+        "image": "[photo](сметана/KrKTfS1XTwCjK7ijoGLFww5RaT79b3QieDDek2yn.jpg)"
+    },
+    {
+        "_id": 289833,
+        "name": "Сметана Киржачский МЗ 20% БЗМЖ, 450 г",
+        "price": 177.99,
+        "link": "https://www.auchan.ru/product/smetana-kmz-20-450-g/",
+        "image": "[photo](сметана/aEz5CG1EfIEKOAoSR20Oruim0PyczSfDAezd13Pm.jpg)"
+    },
+    {
+        "_id": 954175,
+        "name": "Сметана АШАН Красная птица 20% БЗМЖ, 200 г",
+        "price": 59.99,
+        "link": "https://www.auchan.ru/product/kp-smetana-20-200g-bzmzh/",
+        "image": "[photo](сметана/UiGeEIu7OfO9SQRgj0bzAnoy1SzOVfZOLJxSisy2.jpg)"
+    },
+    {
+        "_id": 954173,
+        "name": "Сметана АШАН Красная птица 15%, 200 г",
+        "price": 53.99,
+        "link": "https://www.auchan.ru/product/kp-smetana-15-200g-bzmzh/",
+        "image": "[photo](сметана/0rw3AQtt9mpcnjocOGth8X0qYOJc86Acsz2dEHt9.jpg)"
+    },
+    {
+        "_id": 488243,
+        "name": "Сметана Простоквашино 15%, 180 г",
+        "price": 59.49,
+        "link": "https://www.auchan.ru/product/smetana-prostokvashino-15-180-g/",
+        "image": "[photo](сметана/WV2enjzXVpWybBlAZGDw96U6K2OcsGmVOgtwLyRP.jpg)"
+    },
+    {
+        "_id": 992868,
+        "name": "Сметана Каждый день 20% БЗМЖ, 200 г",
+        "price": 47.98,
+        "link": "https://www.auchan.ru/product/kd-smetana-20-200-g/",
+        "image": "[photo](сметана/dJe6PKW43ecfLqFqh3pFOofQMb4CVKj5XttUApYU.jpg)"
+    },
+    {
+        "_id": 281783,
+        "name": "Сметана Маруся 15% БЗМЖ, 350 г",
+        "price": 84.99,
+        "link": "https://www.auchan.ru/product/smetana-marusya-15-350-g/",
+        "image": "[photo](сметана/D8Ig1ywWrwMOD6baoRvq2KY9SMDIHY2PEDTwslnW.jpg)"
+    },
+    {
+        "_id": 795008,
+        "name": "Сметана ЭкоНива 15%, 300 г",
+        "price": 77.49,
+        "link": "https://www.auchan.ru/product/smetana_15_en_300g/",
+        "image": "[photo](сметана/Hrx2ci5rX6ZRQFSwUww6MVcvSrv8BnTkI6XJEc9I.jpg)"
+    },
+    {
+        "_id": 640330,
+        "name": "Сметана Ростагроэкспорт 15%, 320 г",
+        "price": 87.49,
+        "link": "https://www.auchan.ru/product/smetana-rostagroeksport-15-320g/",
+        "image": "[photo](сметана/5BXmuNnnIHYViF5iPpj7UM4mv2kiygRDoXfMqKDf.jpg)"
+    },
+    {
+        "_id": 461857,
+        "name": "Сметана Маруся 20%, 350 г",
+        "price": 94.96,
+        "link": "https://www.auchan.ru/product/smetana-marusya-20-350-g/",
+        "image": "[photo](сметана/7dwik4lduqytg09BRkgkjloa0Oaqkpla7sX3pIWE.jpg)"
+    },
+    {
+        "_id": 78978,
+        "name": "Сметана Из молока Нашей дойки 15% БЗМЖ, 300 мл",
+        "price": 74.96,
+        "link": "https://www.auchan.ru/product/smetana-nash-d-15-300-ml-bzmzh/",
+        "image": "[photo](сметана/HNknLPyuQ2xiZMCYmyQ9Re22ohDMTmqixMNx9T6A.jpg)"
+    },
+    {
+        "_id": 869635,
+        "name": "Сметана Рузская 25% БЗМЖ, 175 г",
+        "price": 113.99,
+        "link": "https://www.auchan.ru/product/smetana-ruzskaya-25-175-g/",
+        "image": "[photo](сметана/sPnsBZUdWr8hsu0VryPv3EhBHPtAwGS3sV34J6n2.jpg)"
+    },
+    {
+        "_id": 488241,
+        "name": "Сметана Простоквашино 20%, 180 г",
+        "price": 64.96,
+        "link": "https://www.auchan.ru/product/smetana-prostokvashino-20-180-g/",
+        "image": "[photo](сметана/yka4IAiFAuFhaxS5OccuhiPK26l0JcsD4puCSRJc.jpg)"
+    },
+    {
+        "_id": 36216,
+        "name": "Сметана из молока Из молока Нашей дойки 20%, 300 г",
+        "price": 84.96,
+        "link": "https://www.auchan.ru/product/smetana-nd-300gr-20/",
+        "image": "[photo](сметана/jqErCCmaAi6gsbtzn6TpQ3yd78rGXZ0p51unBbQt.jpg)"
+    },
+    {
+        "_id": 910446,
+        "name": "Сметана РостАгроЭкспорт порционная 20%, 30 г",
+        "price": 21.99,
+        "link": "https://www.auchan.ru/product/cmetana-20-30g-rae-bzmzh/",
+        "image": "[photo](сметана/KelPNtrS4EaSdfderM1GDmR9zl6BgQMJWFoPF3K5.jpg)"
+    },
+    {
+        "_id": 166505,
+        "name": "Сметана Залесский Фермер фермерская 20% БЗМЖ, 300 г",
+        "price": 81.99,
+        "link": "https://www.auchan.ru/product/smetana-zalesskiy-fermer-fermerskaya-20-300-g/",
+        "image": "[photo](сметана/A3CnC41mJrfu6JDH5PvodFwOfiEliULFMQQVgOeD.jpg)"
+    },
+    {
+        "_id": 326525,
+        "name": "Сметана Домик в деревне 15% ЗМЖ, 180 г",
+        "price": 54.96,
+        "link": "https://www.auchan.ru/product/smetana-domik-v-derevne-15-180-g/",
+        "image": "[photo](сметана/tsTXpiiPzb6fMxLOBO1DL9Pcee66U7iUAY8T9AFx.jpg)"
+    },
+    {
+        "_id": 795016,
+        "name": "Сметана ЭкоНива 20%, 300 г",
+        "price": 87.49,
+        "link": "https://www.auchan.ru/product/smetana_20_en_300g/",
+        "image": "[photo](сметана/q1i7tC9RvHUn8D300d87d8AHU6WfEwYsDt55gCGn.jpg)"
+    },
+    {
+        "_id": 109634,
+        "name": "Сметана Из молока Нашей Дойки 25% БЗМЖ, 300 г",
+        "price": 99.96,
+        "link": "https://www.auchan.ru/product/smetana-nash-d-25-300-ml-bzmzh/",
+        "image": "[photo](сметана/G2RjuDTIASqFf5KlBnLlTQMNz5U0v5AKlznycpU6.jpg)"
+    },
+    {
+        "_id": 471658,
+        "name": "Сметана Киржачский МЗ 15% БЗМЖ, 450 г",
+        "price": 155.99,
+        "link": "https://www.auchan.ru/product/smetana-kmz-15-450-g/",
+        "image": "[photo](сметана/jWwN5iG6w033eowpuQaRoyqsJGlMWte7Ep2SePro.jpg)"
+    },
+    {
+        "_id": 738562,
+        "name": "Сметана Простоквашино из топленных сливок 15%, 260 г",
+        "price": 98.99,
+        "link": "https://www.auchan.ru/product/smetana-prostokvashino-iz-toplennyh-slivok-15-260-g/",
+        "image": "[photo](сметана/J3dY9RzoyTVxRwvoFMRC9q2puOSDICPWTofdrclL.jpg)"
+    },
+    {
+        "_id": 666936,
+        "name": "Сметана Домик в деревне 25% БЗМЖ, 300 г",
+        "price": 114.49,
+        "link": "https://www.auchan.ru/product/smetana-domik-v-derevne-25-300-g/",
+        "image": "[photo](сметана/WCZcJk7nsL8FJBRwssTmZC6AilmMQm8zOCKModAp.jpg)"
+    },
+    {
+        "_id": 488368,
+        "name": "Сметана Экомилк 30.0% БЗМЖ, 200 г",
+        "price": 80.99,
+        "link": "https://www.auchan.ru/product/smetana-ekomilk-30-0-200-g/",
+        "image": "[photo](сметана/hkXGUrUfeguKvtVraqfA2GJQX4NdySsyjr5iG2uw.jpg)"
+    },
+    {
+        "_id": 964003,
+        "name": "Сметана Искренне Ваш 10% БЗМЖ, 300 г",
+        "price": 89.99,
+        "link": "https://www.auchan.ru/product/smetana-isk-vash-10-300g-bzmzh/",
+        "image": "[photo](сметана/A6AlDQyDBAcvPKwLl3xreXgjzxzborOQD10jcI28.jpg)"
+    },
+    {
+        "_id": 748052,
+        "name": "Сметана President 20%, 350 г",
+        "price": 134.9,
+        "link": "https://www.auchan.ru/product/smetana-president-20-350-g/",
+        "image": "[photo](сметана/1D8a0Phpr48GnzOkmzgPwZbumVIZGIa0ktV8wuko.jpg)"
+    },
+    {
+        "_id": 761774,
+        "name": "Сметана Коровка из Кореновки 20%, 300 г",
+        "price": 136.49,
+        "link": "https://www.auchan.ru/product/smetana_20_300g_stakan_kizk/",
+        "image": "[photo](сметана/P3Xkcxj5jQ9BjdETHo8a1fqMci1DYTXgHRXvxfim.jpg)"
+    },
+    {
+        "_id": 107441,
+        "name": "Сметана Parmalat без лактозы 15%, 300 г",
+        "price": 127.99,
+        "link": "https://www.auchan.ru/product/smetana-b-laktoz-15-300g-parm/",
+        "image": "[photo](сметана/agKPSWnO0ZN8fQG5kKglWP9HwXDSdy9BwjUrfhlg.jpg)"
+    },
+    {
+        "_id": 269723,
+        "name": "Сметана Брест-Литовск 15%, 180 г",
+        "price": 62.99,
+        "link": "https://www.auchan.ru/product/smetana-brest-litovsk-znatnyy-produkt-15-180-g/",
+        "image": "[photo](сметана/ux5ghsFmeqyLhvSVPsrfjPvrZKJpNepTYeXQghq7.jpg)"
+    },
+    {
+        "_id": 59612,
+        "name": "Сметана РостАгроЭкспорт 20% БЗМЖ, 180 г",
+        "price": 71.99,
+        "link": "https://www.auchan.ru/product/smetana-rostagro-20-180g-bzmzh/",
+        "image": "[photo](сметана/7OSgvENN7xNIdeqIU7eqsgvU8oUJLltcvEUEzx3l.jpg)"
+    },
+    {
+        "_id": 274563,
+        "name": "Сметана Чабан 25% БЗМЖ, 400 г",
+        "price": 179.99,
+        "link": "https://www.auchan.ru/product/smetana-chaban-25-400-g/",
+        "image": "[photo](сметана/ikU0UHSuJZAfTWpUM97vfmlIadP8yTgQgJfXFSmr.jpg)"
+    },
+    {
+        "_id": 829516,
+        "name": "Сметана Дороганов хутор 20% БЗМЖ, 400 г",
+        "price": 169.99,
+        "link": "https://www.auchan.ru/product/smetana-doroganov-20-0-4kg-sb/",
+        "image": "[photo](сметана/fPNU8b8k9sCc8YKhnjCJJIWKopfEEKfsEiaf1gG8.jpg)"
+    },
+    {
+        "_id": 112286,
+        "name": "Сметана Авида 20% БЗМЖ, 170 г",
+        "price": 58.99,
+        "link": "https://www.auchan.ru/product/smetana-20-170gr/",
+        "image": "[photo](сметана/P9CQ44BeUWBRkv7NJlhxDz4Ahd3pyBGtQRDx3dP9.jpg)"
+    },
+    {
+        "_id": 404800,
+        "name": "Сметана Братья Чебурашкины. Семейная ферма 20% БЗМЖ, 200 г",
+        "price": 112.99,
+        "link": "https://www.auchan.ru/product/smetana-bratya-cheburashkiny-semeynaya-ferma-20-200-g/",
+        "image": "[photo](сметана/zdZzRvjai09cDakv6lcBlW1EM2WoLlTTzZG3QT1w.jpg)"
+    },
+    {
+        "_id": 112284,
+        "name": "Сметана Авида 10% БЗМЖ, 170 г",
+        "price": 44.99,
+        "link": "https://www.auchan.ru/product/smetana-10-170gr/",
+        "image": "[photo](сметана/o8yVpX7QF6JOsZBQIw2bngEtGGOVeQsbkFakMeM0.jpg)"
+    },
+    {
+        "_id": 262880,
+        "name": "Сметана President 30% БЗМЖ, 180 г",
+        "price": 108.99,
+        "link": "https://www.auchan.ru/product/smetana-president-30-180-g/",
+        "image": "[photo](сметана/QpjqFfp3rXPU7UVtm4EE0Vh4pWYRG7HtwOuPzmYH.jpg)"
+    },
+    {
+        "_id": 112285,
+        "name": "Сметана Авида 15% БЗМЖ, 170 г",
+        "price": 37.9,
+        "link": "https://www.auchan.ru/product/smetana-15-170gr/",
+        "image": "[photo](сметана/EkuLBfxv3fgabYKN9Lb0EE3HOXamWzV5oyERkXZg.jpg)"
+    },
+    {
+        "_id": 107708,
+        "name": "Сметана Лебедяньмолоко 20% БЗМЖ, 300 г",
+        "price": 98.99,
+        "link": "https://www.auchan.ru/product/smetana-20-300g-st-lebedyan/",
+        "image": "[photo](сметана/3uLCdAHpdzmkaHsvDD7SNh24yXRKzaQo0VyOg7QG.jpg)"
+    },
+    {
+        "_id": 258121,
+        "name": "Сметана Ростагроэкспорт 15%, 180 г",
+        "price": 78.99,
+        "link": "https://www.auchan.ru/product/smetana-rostagroeksport-15-180-g/",
+        "image": "[photo](сметана/AwK3Mj1EAhSUQd04M9rRd8wR4mQC9gv6LxeEVNCr.jpg)"
+    },
+    {
+        "_id": 578106,
+        "name": "Сметана Viola сливочная 23% БЗМЖ, 160 г",
+        "price": 88.99,
+        "link": "https://www.auchan.ru/product/smetana-valio-23-160-g/",
+        "image": "[photo](сметана/H76XnSIStxpdufOaqYiYCRnwv0gepmDoewgDYRoC.jpg)"
+    },
+    {
+        "_id": 334638,
+        "name": "Сметана Домик в деревне 20% ЗМЖ, 180 г",
+        "price": 64.96,
+        "link": "https://www.auchan.ru/product/smetana-domik-v-derevne-20-180-g/",
+        "image": "[photo](сметана/gPyVceK266xVFhjdrnrx7vZEKFV6Yzye7aEQQarl.jpg)"
+    },
+    {
+        "_id": 128213,
+        "name": "Сметана АШАН Красная птица 15%, 200 г",
+        "price": 53.99,
+        "link": "https://www.auchan.ru/product/kp-smetana-15-200g-bzmzh-2/",
+        "image": "[photo](сметана/Pnczx4xTrgbjREl3AJdOZ9JWfyjIbXvJVWqGhwip.jpg)"
+    },
+    {
+        "_id": 276617,
+        "name": "Сметана Чабан 40% БЗМЖ, 200 г",
+        "price": 140.99,
+        "link": "https://www.auchan.ru/product/smetana-chaban-40-200-g/",
+        "image": "[photo](сметана/cfWZcOWJkPiK0uyBq26pnCt9sYxqYxX8v6yZt8ap.jpg)"
+    },
+    {
+        "_id": 77290,
+        "name": "Сметана Минская марка 20% БЗМЖ, 380 г",
+        "price": 126.99,
+        "link": "https://www.auchan.ru/product/smet-minsk-mar-20-380gr-bzmzh/",
+        "image": "[photo](сметана/VG82XhBdPLIrdZUHvlSuc6f6SP75t1dnuRwSwRBh.jpg)"
+    },
+    {
+        "_id": 904429,
+        "name": "Сметана Авида 20%, 300 г",
+        "price": 100.99,
+        "link": "https://www.auchan.ru/product/smetana-20-300g-avida-bzmzh/",
+        "image": "[photo](сметана/w2hPLmRLeDiPxGh9YuZh3xgqqEcUeUr1gfFywFzg.jpg)"
+    },
+    {
+        "_id": 107446,
+        "name": "Сметана Parmalat без лактозы 20%, 300 г",
+        "price": 146.99,
+        "link": "https://www.auchan.ru/product/smetana-b-laktoz-20-300g-parm/",
+        "image": "[photo](сметана/S2qjHFRoqiBrxAuNT5hakLpsxIZWsLREOnw0t60S.jpg)"
+    },
+    {
+        "_id": 268584,
+        "name": "Сметана Рузское молоко 15%, 175 г",
+        "price": 64.9,
+        "link": "https://www.auchan.ru/product/smetana-ruzskoe-moloko-15-175-g/",
+        "image": "[photo](сметана/DaU5MzSlGeoWhQUydv72tdwvDTI6dB8v6lVy6e8p.jpg)"
+    },
+    {
+        "_id": 77388,
+        "name": "Сметана Минская марка 15% БЗМЖ, 380г",
+        "price": 104.99,
+        "link": "https://www.auchan.ru/product/smet-minsk-mar-15-380gr-bzmzh/",
+        "image": "[photo](сметана/VVLs1GC4klOhe9bLUPkxUnAfigk53JkbS1mV46Rc.jpg)"
+    },
+    {
+        "_id": 48408,
+        "name": "Сметана Коломенский термостатная 15% БЗМЖ, 180 г",
+        "price": 184.99,
+        "link": "https://www.auchan.ru/product/smetana-kolom-termost-15-180g/",
+        "image": "[photo](сметана/9G0nwqrg7AplGQfpPcDnIqGFSHbfYKo53Ju5W9iI.jpg)"
+    },
+    {
+        "_id": 951615,
+        "name": "Сметана Лебедяньмолоко 25% БЗМЖ, 300 г",
+        "price": 114.49,
+        "link": "https://www.auchan.ru/product/smetana_mdzh25_300gr/",
+        "image": "[photo](сметана/so2SHy8UWCi2Aracig1c2TsI9PADspxbEJDf9fO4.jpg)"
+    },
+    {
+        "_id": 228949,
+        "name": "Сметана Княгинино 20% БЗМЖ, 350 г",
+        "price": 115.99,
+        "link": "https://www.auchan.ru/product/smetana-knyaginino-20-350-g/",
+        "image": "[photo](сметана/B3nOEbbMEwlyfoh0gahYV8Pocqk7DWt2tl1ZCfd1.jpg)"
+    },
+    {
+        "_id": 984530,
+        "name": "Сметана Первый вкус 15%, 300 г",
+        "price": 72.99,
+        "link": "https://www.auchan.ru/product/smetana-p-st-15-300g-perv-vk/",
+        "image": "[photo](сметана/7jH8bp43lkG2kIZ0f96GH5Dya0QPdm8QogeTPVsu.jpg)"
+    },
+    {
+        "_id": 62919,
+        "name": "Сметана Братья Чебурашкины 15% БЗМЖ, 200 г",
+        "price": 110.99,
+        "link": "https://www.auchan.ru/product/smetana-15-200g/",
+        "image": "[photo](сметана/4HMov3RKG9TZQ5dqBzeXNwmPaEURhrDs94ZKiIxz.jpg)"
+    },
+    {
+        "_id": 61253,
+        "name": "Сметана Углече Поле 15% БЗМЖ, 250 г",
+        "price": 101.96,
+        "link": "https://www.auchan.ru/product/smetana-15-ugleche-pole-250g/",
+        "image": "[photo](сметана/5zDx0vg3hjB3YMyutrEamKkTsd4YR5L2oYE4LQGo.jpg)"
+    },
+    {
+        "_id": 789561,
+        "name": "Сметана Из Углича 15% БЗМЖ, 200 г",
+        "price": 60.99,
+        "link": "https://www.auchan.ru/product/smetana_15__200_g_iz_uglicha/",
+        "image": "[photo](сметана/3ojUySEL04l8lxIjnyjDTIYbfNcwRSl7cHY4Rw6Z.jpg)"
+    },
+    {
+        "_id": 177590,
+        "name": "Молокосодержащий продукт Альпийская коровка 15% ЗМЖ, 400 г",
+        "price": 57.99,
+        "link": "https://www.auchan.ru/product/molokosoderzhashchiy-produkt-alpiyskaya-korovka-s-zamenitelem-molochnogo-zhira-15-400-g/",
+        "image": "[photo](сметана/puX74LHVGStxm3jX96nrkWeryasRBf83R4UBQFvr.jpg)"
+    },
+    {
+        "_id": 177596,
+        "name": "Продукт молокосодержащий Альпийская коровка 20% ЗМЖ, 400 г",
+        "price": 68.99,
+        "link": "https://www.auchan.ru/product/molokosoderzhashchiy-produkt-alpiyskaya-korovka-s-zamenitelem-molochnogo-zhira-20-400-g/",
+        "image": "[photo](сметана/6VCfoZYaiLSDVmXYBBEkPNJ6QByitRY0SYXMUCGM.jpg)"
+    },
+    {
+        "_id": 274560,
+        "name": "СметанаЧабан 25% БЗМЖ, 200 г",
+        "price": 102.99,
+        "link": "https://www.auchan.ru/product/smetana-chaban-25-200-g/",
+        "image": "[photo](сметана/Zbgv6vADSAOhNM4t0LnFrsHLOdodhUpKcbuiYHXN.jpg)"
+    },
+    {
+        "_id": 559743,
+        "name": "Майонез Слобода сметанный 67%, 400 мл",
+        "price": 127.99,
+        "link": "https://www.auchan.ru/product/mayonez-sloboda-smetannyy-67-400-ml/",
+        "image": "[photo](сметана/KChpw1PtpTyA4K0xcfzkkg0uCGSCcw1AoP01r9fN.jpg)"
+    },
+    {
+        "_id": 824465,
+        "name": "Загуститель сметаны Dr.Bakers, 16 г",
+        "price": 35.99,
+        "link": "https://www.auchan.ru/product/zagustitel-dlya-smetany-dr-oetker-16-g/",
+        "image": "[photo](сметана/PwKlQorkboldxtIkbz0xDz6l9GTe3mV5uHQAGaQL.jpg)"
+    },
+    {
+        "_id": 735911,
+        "name": "Чипсы картофельные Lay's Из печи лисички в сметане, 85 г",
+        "price": 79.9,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-iz-pechi-lisichki-v-smetane-85-g/",
+        "image": "[photo](сметана/duEagv0JIwG1Yfvo8fcuc8T8vzC4iwnRH4gN7HnP.jpg)"
+    },
+    {
+        "_id": 135434,
+        "name": "Торт Панчо Фили-Бейкер сметанный, 1 кг",
+        "price": 749.49,
+        "link": "https://www.auchan.ru/product/tort-fili-beyker-pancho-smetannyy-1-kg/",
+        "image": "[photo](сметана/3ClyHB06VChzSyYpc12JLZHuD4xSD2aXdXXJy3X7.jpg)"
+    },
+    {
+        "_id": 455042,
+        "name": "Сухарики пшеничные Кириешки Light со вкусом сметаны и зелени, 33 г",
+        "price": 11.99,
+        "link": "https://www.auchan.ru/product/suhariki-pshenichnye-kirieshki-light-so-vkusom-smetany-i-zeleni-33-g/",
+        "image": "[photo](сметана/jttXMUVYJf2DqQAjKNBTHL4NNbOk2gCKqjWboaHG.jpg)"
+    },
+    {
+        "_id": 251678,
+        "name": "Сухарики ржаные Хрусteam со вкусом сметаны, 40 г",
+        "price": 16.49,
+        "link": "https://www.auchan.ru/product/suhariki-rzhanye-hrusteam-so-vkusom-smetany-40-g/",
+        "image": "[photo](сметана/lQ26qy7ghJkd3YuvPP1hbdU2syxMqFIzt8tiD15L.jpg)"
+    },
+    {
+        "_id": 725535,
+        "name": "Чипсы картофельные Русскарт Русская картошка со вкусом сметаны и лука, вес",
+        "price": 60.9,
+        "link": "https://www.auchan.ru/product/chipsy-kartof-smetana-i-luk-1kg/",
+        "image": "[photo](сметана/jTIerB5tsekGCEj2AKhDbjrGwflLpi1zODdNJKCN.jpg)"
+    },
+    {
+        "_id": 119524,
+        "name": "Чипсы Хрустящий картофель со вкусом сметаны и лука, 40 г",
+        "price": 38.99,
+        "link": "https://www.auchan.ru/product/chipsy-hrustyashchiy-kartofel-so-vkusom-smetany-i-luka-40-g/",
+        "image": "[photo](сметана/8p8aMkpRGL2zd4CFO3KuLP9xyA3AWX4zznbEuXs6.jpg)"
+    },
+    {
+        "_id": 725537,
+        "name": "Чипсы картофельные Русскарт Русская картошка со вкусом сметаны и укропа, вес",
+        "price": 61.2,
+        "link": "https://www.auchan.ru/product/chipsy-hrust-kart-sm-ukrop-1kg/",
+        "image": "[photo](сметана/xGzBHjfE4FMQa04h9zZF628rRnR6f00VuiD4ZB7C.jpg)"
+    },
+    {
+        "_id": 671732,
+        "name": "Чипсы картофельные Lay's сметана и лук, 70 г",
+        "price": 79.49,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-smetana-i-luk-90-g/",
+        "image": "[photo](сметана/gw7NxppDgTDT1PgZa50h2HT6awuLnOCQZM87vJlO.jpg)"
+    },
+    {
+        "_id": 294642,
+        "name": "Чипсы картофельные Lay's со вкусом сметаны и лука, 225 г",
+        "price": 219.99,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-kartofelnye-smetana-i-luk-225-g/",
+        "image": "[photo](сметана/tjfKQ3wHLZ2BK3AjjVJqdzdjG7UBs5oSf9bUUwVd.jpg)"
+    },
+    {
+        "_id": 825749,
+        "name": "Чипсы картофельные Lay's из печи вкус сметана и травы, 85 г",
+        "price": 119.9,
+        "link": "https://www.auchan.ru/product/lays-iz-pechi-smettravy-85g/",
+        "image": "[photo](сметана/OlShxSsqW1bse9MY20Wljp6TFTXxfbR72HgsyTGE.jpg)"
+    },
+    {
+        "_id": 294663,
+        "name": "Чипсы картофельные Lay's сметана и зелень, 225 г",
+        "price": 195.99,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-smetana-i-zelen-225-g/",
+        "image": "[photo](сметана/2Uu7FOrp5OgQQdefG64npU7148C8hQnsIOMi9dGw.jpg)"
+    },
+    {
+        "_id": 922165,
+        "name": "Майонез Ряба Провансаль сметанный 67%, 372 мл",
+        "price": 89.9,
+        "link": "https://www.auchan.ru/product/mayonez-smetannyy-ryaba-provansal-67-372-ml/",
+        "image": "[photo](сметана/OvNxvXRSdBSKhSA9m64NZ5moJJ110u4IxbaK6rBx.jpg)"
+    },
+    {
+        "_id": 110852,
+        "name": "Чипсы АШАН Красная птица со вкусом сметаны и лука, 130 г",
+        "price": 105.99,
+        "link": "https://www.auchan.ru/product/kp-chipsy-smetana-luk-130g/",
+        "image": "[photo](сметана/qmniMe6FHIFuifQ30mfXlPGDgca8cb2egWHuHLWn.jpg)"
+    },
+    {
+        "_id": 671741,
+        "name": "Чипсы картофельные Lay's сметана и зелень, 70 г",
+        "price": 79.49,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-smetana-i-zelen-90-g/",
+        "image": "[photo](сметана/3WjEqLoEYDLAeITmf7hulF4W2rJXuoKEbM2Fk1Ti.jpg)"
+    },
+    {
+        "_id": 88787,
+        "name": "Сухарики пшенично-кукурузные От Мартина со вкусом сметаны и зелени, 60 г",
+        "price": 30.99,
+        "link": "https://www.auchan.ru/product/suhariki-pshenichno-kukuruznye-ot-martina-so-vkusom-smetany-i-zeleni-60-g/",
+        "image": "[photo](сметана/QsrlOA2FGdIBVXbn1ZODiTAq2FO2dL0Ux0ey1sn1.jpg)"
+    },
+    {
+        "_id": 68611,
+        "name": "Сухарики ржаные Фишка со вкусом сметаны и лука, 120 г",
+        "price": 66.99,
+        "link": "https://www.auchan.ru/product/suhariki-rzhanye-fishka-so-vkusom-smetany-i-luka-130-g/",
+        "image": "[photo](сметана/bSqjq6ypeVAUTs3BzZwhAiLbNfsjhWT1b62jcwwz.jpg)"
+    },
+    {
+        "_id": 993205,
+        "name": "Луковые колечки Каждый день со вкусом сметаны и лука, 50 г",
+        "price": 17.99,
+        "link": "https://www.auchan.ru/product/kd-luk-kolechki-smet-luk-50g/",
+        "image": "[photo](сметана/NplUk0bePqQ6zQn0Ix9AcvZcaAUOTEILECId4Bfe.jpg)"
+    },
+    {
+        "_id": 455405,
+        "name": "Чипсы картофельные Lay's со вкусом сметаны и лука, 140 г",
+        "price": 159.49,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-kartofelnye-smetana-i-luk-150-g/",
+        "image": "[photo](сметана/DNpV1Eadnj1topsEw4YQSE5AwcocKoCpvqtEulA0.jpg)"
+    },
+    {
+        "_id": 10859,
+        "name": "Продукт растительный Каждый день со сметаной 20% ЗМЖ, 900 г",
+        "price": 139.99,
+        "link": "https://www.auchan.ru/product/kd-prod-so-smet-20-900g-szmzh/",
+        "image": "[photo](сметана/TJzGc4iFO0Ym8caCnQPYjopu0SKKWGapMna0maIF.jpg)"
+    },
+    {
+        "_id": 325200,
+        "name": "Соус майонезный Astoria Сметанный с грибами для мясных блюд 42%, 233 г",
+        "price": 59.9,
+        "link": "https://www.auchan.ru/product/sous-mayoneznyy-astoria-smetannyy-s-gribami-42-233-g/",
+        "image": "[photo](сметана/vXhaaAYKBL1ACBaWyrPq2aEIH9sRzSOVQCNhUjie.jpg)"
+    },
+    {
+        "_id": 455408,
+        "name": "Чипсы картофельные Lay's сметана и зелень, 140 г",
+        "price": 159.49,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-smetana-i-zelen-150-g/",
+        "image": "[photo](сметана/NrGvojKFZ4EldKX6SXNhv1a34f4HJzzEnvTZI8DI.jpg)"
+    },
+    {
+        "_id": 751986,
+        "name": "Чипсы картофельные Lay's STAX со вкусом нежной сметаны и лука, 140 г",
+        "price": 159.49,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-stax-nezhnaya-smetana-i-luk-140-g/",
+        "image": "[photo](сметана/7ePXSzRopNA1REtgKgRUygiVLUDbcntzWQvpaST9.jpg)"
+    },
+    {
+        "_id": 10854,
+        "name": "Продукт растительный Каждый день со сметаной 15% ЗМЖ, 200 г",
+        "price": 25.99,
+        "link": "https://www.auchan.ru/product/kd-prod-so-smet-15-200g-szmzh/",
+        "image": "[photo](сметана/YGWPmBNqYfRgDv4XcCedJdk452BnuTm8ABHOorJV.jpg)"
+    },
+    {
+        "_id": 993203,
+        "name": "Чипсы Каждый день со вкусом сметаны и лука, 100 г",
+        "price": 36.98,
+        "link": "https://www.auchan.ru/product/kd-chipsy-vkus-luk-i-smet-100g/",
+        "image": "[photo](сметана/LTJ77BMrUdkYC8UpKsgaHP0FcXJTT6GHjIXaQsp4.jpg)"
+    },
+    {
+        "_id": 723641,
+        "name": "Чипсы картофельные Московский картофель со вкусом лука и сметаны, 130 г",
+        "price": 109.49,
+        "link": "https://www.auchan.ru/product/chipsy-kartofelnye-moskovskiy-kartofel-so-vkusom-luka-i-smetany-130-g/",
+        "image": "[photo](сметана/BcMDpXvVzzeiVXEfu835xrLppregGuQK88sgDhzL.jpg)"
+    },
+    {
+        "_id": 845698,
+        "name": "Чипсы Русская Картошка со вкусом сметаны и укропа, 80 г",
+        "price": 95.99,
+        "link": "https://www.auchan.ru/product/russkart-chipsy-smet-ukr-80-gr/",
+        "image": "[photo](сметана/1mVm7DatOJAim1DP2dNXaApgAN9jONOXL2R8cUkw.jpg)"
+    },
+    {
+        "_id": 616032,
+        "name": "Соус майонезный Astoria Лук со сметаной для мяса и птицы 42%, 233 г",
+        "price": 75.49,
+        "link": "https://www.auchan.ru/product/sous-mayoneznyy-astoria-luk-so-smetanoy-42-233-g/",
+        "image": "[photo](сметана/wJuTwvLJ2rdIEunpGilFjrcBEJ3Rbb66lkIfSEXI.jpg)"
+    },
+    {
+        "_id": 996191,
+        "name": "Чипсы Русская картошка сметана и лук, 140 г",
+        "price": 158.99,
+        "link": "https://www.auchan.ru/product/russkart-chipsy-smet-luk-140g/",
+        "image": "[photo](сметана/4hdDveb1v274wfuaRuiHl2UaaIKwv15Pm0pvjKsQ.jpg)"
+    },
+    {
+        "_id": 510841,
+        "name": "Чипсы Lorenz Pomsticks соломкой со вкусом сметаны и специй, 100 г",
+        "price": 120.99,
+        "link": "https://www.auchan.ru/product/chipsy-lorenz-pomsticks-solomkoy-so-vkusom-smetany-i-speciy-100-g/",
+        "image": "[photo](сметана/gYcwfEibFuUON3AYmUIDn08MBpvTcphbJXYkxIrj.jpg)"
+    },
+    {
+        "_id": 968742,
+        "name": "Сухарики Хрусteam ржаные Сметана-Зелень, 60 г",
+        "price": 60.99,
+        "link": "https://www.auchan.ru/product/hrustim-rzh-smetana-zelen-60gr/",
+        "image": "[photo](сметана/GaMt9XCO3oTES9mj0oYdfOx8wNS3oojvbFRve4ay.jpg)"
+    },
+    {
+        "_id": 845697,
+        "name": "Чипсы Русская Картошка со вкусом сметаны и лука, 80 г",
+        "price": 81.99,
+        "link": "https://www.auchan.ru/product/russkart-chipsy-smet-luk-80gr/",
+        "image": "[photo](сметана/5jQcLll4mdunsDPLMAgMZdPwIbQJe2I8ltdoGCSd.jpg)"
+    },
+    {
+        "_id": 10856,
+        "name": "Продукт растительный Каждый день со сметаной 20% ЗМЖ, 200 г",
+        "price": 27.99,
+        "link": "https://www.auchan.ru/product/kd-prod-so-smet-20-200g-szmzh/",
+        "image": "[photo](сметана/W5xyl2yurx0ADbfdnAAmVWGrhTSlp47elChfaDPP.jpg)"
+    },
+    {
+        "_id": 127972,
+        "name": "Чипсы Краш Лаваш Сметана с укропом, 80 г",
+        "price": 54.9,
+        "link": "https://www.auchan.ru/product/chipsy-krash-lavash-smet-ukr-80g/",
+        "image": "[photo](сметана/GjESgOXQo49U43GkKR2MG1y5sJNnYSiGh1ggi4EG.jpg)"
+    },
+    {
+        "_id": 968743,
+        "name": "Сухарики Хрусteam Багет Сметана-Зелень, 100 г",
+        "price": 88.99,
+        "link": "https://www.auchan.ru/product/hrustim-baget-smet-zelen-100g/",
+        "image": "[photo](сметана/ZPHpIFN0v2yIIf3eajNV4YrAohzid9X4kOiWT8FT.jpg)"
+    },
+    {
+        "_id": 823514,
+        "name": "Соус майонезный МАХЕЕВЪ Сметанный с грибами 50,5%, 200 г",
+        "price": 66.96,
+        "link": "https://www.auchan.ru/product/sous-mayoneznyy-maheev-smetannyy-s-gribami-50-5-200-g/",
+        "image": "[photo](сметана/GFnGsK20kl62BF6nmzjRc8U6puI8gjELkzXepXWt.jpg)"
+    },
+    {
+        "_id": 127967,
+        "name": "Чипсы Краш Лаваш Сметана и лук, 80 г",
+        "price": 54.9,
+        "link": "https://www.auchan.ru/product/chipsy-krash-lavash-smet-luk-80g/",
+        "image": "[photo](сметана/qPDqLl9TlUqeZdCm2N32PiRdBOVCKzbxLjvbsQnn.jpg)"
+    },
+    {
+        "_id": 59459,
+        "name": "Чипсы картофельные Lay's со вкусом Сметаны и Зелени 95г",
+        "price": 137.99,
+        "link": "https://www.auchan.ru/product/leyz-smetana-zelen-95g/",
+        "image": "[photo](сметана/U9cuv3cNrDv2z2bDDRGgCWnxh7pXmwmrsK1Wz1x9.jpg)"
+    },
+    {
+        "_id": 989169,
+        "name": "Сухарики Хруст ржано-пшеничные со вкусом лука и сметаны, вес",
+        "price": 34.5,
+        "link": "https://www.auchan.ru/product/suhariki-vkus-luk-smetana-ves-kg/",
+        "image": "[photo](сметана/HnRTDrxRG7nkQfludKvA6k2dNW4hjgb3UbEnqU25.jpg)"
+    },
+    {
+        "_id": 87472,
+        "name": "Чипсы картофельные Mister Potato со вкусом сметаны и лука, 160 г",
+        "price": 296.99,
+        "link": "https://www.auchan.ru/product/chipsy-mister-potato-sm-l-160g/",
+        "image": "[photo](сметана/ySuRoAwdrwOQb0nrjzemwO6Kz4sMu1drIsaX8NzA.jpg)"
+    },
+    {
+        "_id": 671717,
+        "name": "Чипсы картофельные Lay's сметана и зелень, 37 г",
+        "price": 57.99,
+        "link": "https://www.auchan.ru/product/chipsy-lay-s-smetana-i-zelen-50-g/",
+        "image": "[photo](сметана/1lbaz1PQpZs9rZO2bIP8VxRFLiV83m7lvqFjV26M.jpg)"
+    },
+    {
+        "_id": 845700,
+        "name": "Луковые кольца Русскарт Золотые сметана и лук, 100 г",
+        "price": 107.99,
+        "link": "https://www.auchan.ru/product/luk-kolca-smet-luk-100gr/",
+        "image": "[photo](сметана/NX5NyNRqZxy6l3tYGbqPEXqNHnC5aeP7bKRsqUGE.jpg)"
+    },
+    {
+        "_id": 986847,
+        "name": "Чипсы кукурузные Delicados сметанный соус ранч, 150 г",
+        "price": 109.49,
+        "link": "https://www.auchan.ru/product/chipsy-kukur-delic-ranch-150g/",
+        "image": "[photo](сметана/D6wi5qiSM2Kguz4jxqlJDjkWBAc48QjFU47ml0fk.jpg)"
+    },
+    {
+        "_id": 986841,
+        "name": "Чипсы кукурузные Mission сметана с луком, 90 г",
+        "price": 85.99,
+        "link": "https://www.auchan.ru/product/chipsy-kukur-mission-smet-90g/",
+        "image": "[photo](сметана/AA1VQxKieJiD1TFo4vhgfWvikMDAb8IkOjm5pP0W.jpg)"
+    },
+    {
+        "_id": 83264,
+        "name": "Крекер День здоровья Зеленый лук и сметана на фруктозе, 125 г",
+        "price": 98.99,
+        "link": "https://www.auchan.ru/product/kreker-zel-luk-smet-na-fr-125g/",
+        "image": "[photo](сметана/mQHdkUuv7aPsRNyU59WAWaRCpGWc7v34pqYuGCT6.jpg)"
+    },
+    {
+        "_id": 22289,
+        "name": "Сыр хрустящий АШАН Красная птица со вкусом сметаны и лука, 25 г",
+        "price": 69.99,
+        "link": "https://www.auchan.ru/product/kp-syr-hrust-smetana-luk-25g/",
+        "image": "[photo](сметана/ZapTUOKybkxNVX5UceLbqmcnhh6bLQPaJVxL9Dqd.jpg)"
+    },
+    {
+        "_id": 122688,
+        "name": "Чипсы картофельные Московский Картофель лук и сметана, 200 г",
+        "price": 176.99,
+        "link": "https://www.auchan.ru/product/mosk-kart-luk-smet-200g/",
+        "image": "[photo](сметана/jZ8Vnq8tKoXAeeFNKEXjEj60FE6JpkLb8PIby9tX.jpg)"
+    },
+    {
+        "_id": 767808,
+        "name": "Мини-сушка Волжский пекарь лук сметана, 180 г",
+        "price": 40.99,
+        "link": "https://www.auchan.ru/product/mini_sushka__smeta_i_luk_180_g/",
+        "image": "[photo](сметана/EKVfFKmSI2m52CmgiTGn5x4StcQUnAc5fNakTMxg.jpg)"
+    },
+    {
+        "_id": 109892,
+        "name": "Чипсы картофельные Bruto Сметана и зелень, 120 г",
+        "price": 130.99,
+        "link": "https://www.auchan.ru/product/chipsy-smetana-zelen-npc-120g/",
+        "image": "[photo](сметана/4vHxeSymG79zvfBF5DDsuCyICTIu2dLLJVdGSgcx.jpg)"
+    },
+    {
+        "_id": 781245,
+        "name": "Колбаски сырокопченые Дымов Пиколини сметана лук, 50 г",
+        "price": 70.96,
+        "link": "https://www.auchan.ru/product/kolpikolini_smetanaluksk50g/",
+        "image": "[photo](сметана/bySFtz2CWSBw0YLqMFOHXNm1hd2gvuJCpDm2ibIj.jpg)"
+    },
+    {
+        "_id": 245313,
+        "name": "Приправа на второе Трапеза для нежной рыбы в сметанно-укропном соусе, 25 г",
+        "price": 49.99,
+        "link": "https://www.auchan.ru/product/priprava-trapeza-na-vtoroe-dlya-nezhnoy-ryby-v-smetanno-ukropnom-souse-25-g/",
+        "image": "[photo](сметана/23KChpLKlrxhPTv0YtMgNUKJeQjhkUtslqESE3Ll.jpg)"
+    },
+    {
+        "_id": 959473,
+        "name": "Снеки Organique картофельные с луком и сметаной, 85 г",
+        "price": 269.99,
+        "link": "https://www.auchan.ru/product/bio-sneki-kartof-smet-luk-85g/",
+        "image": "[photo](сметана/VX5p3oEAOQxyWHfsIjADVrrSrXoxs67rqsBYxXlZ.jpg)"
+    },
+    {
+        "_id": 80872,
+        "name": "Печенье сдобное Сладкая слобода Домашнее кокосанка на сметанке, 450 г",
+        "price": 261.99,
+        "link": "https://www.auchan.ru/product/domashnee-kokosanka-450g/",
+        "image": "[photo](сметана/3DfgJJFq9UeDGMdfkvKEGuJjlVx6wzPS0F8p5Brt.jpg)"
+    },
+    {
+        "_id": 10440,
+        "name": "Снек Legumes из зеленого гороха и кукурузы со вкусом сметаны и лука, 35 г",
+        "price": 185.99,
+        "link": "https://www.auchan.ru/product/snek-gor-kuk-sm-luk-legumes35g/",
+        "image": "[photo](сметана/NTTP0nWlQDroQSzEJfGZysvDhKSZf8zPZnRDj0Xl.jpg)"
+    }
+]

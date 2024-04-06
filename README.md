@@ -34,3 +34,8 @@
 - [Lecture](https://github.com/allseenn/api/tree/main/08.Lecture)
 - [Seminar](https://github.com/allseenn/api/tree/main/08.Seminar)
 - [HomeWork](https://github.com/allseenn/api/tree/main/08.Tasks)
+
+9. Labeling
+- [Lecture](https://github.com/allseenn/api/tree/main/09.Lecture)
+- [Seminar](https://github.com/allseenn/api/tree/main/09.Seminar)
+- [HomeWork](https://github.com/allseenn/api/tree/main/09.Tasks)

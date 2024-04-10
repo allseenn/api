@@ -1,7 +1,7 @@
 # Collecting and labeling data
 
 1. Rest API
-- [Seminar](https://github.com/allseenn/api/tree/main/01.Seminar)
+- [Seminar](https://github.com/allseenn/api/tree/main/01.Seminar) GIPHY
 - [Homework](https://github.com/allseenn/api/tree/main/01.Tasks)
 
 2. Beautiful soup

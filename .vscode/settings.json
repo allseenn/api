@@ -3,5 +3,6 @@
         "scrapy",
         "пайтон",
         "пайтона"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
